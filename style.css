@@ -1,0 +1,37 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=DM+Serif+Display&family=Honk&family=Karla:wght@300&family=Karma:wght@300;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald:wght@300&family=PT+Serif&family=Playfair+Display:ital,wght@0,500;1,400;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=DM+Serif+Display&family=Honk&family=Karla:wght@300&family=Karma:wght@300;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald:wght@300&family=PT+Serif&family=Playfair+Display:ital,wght@0,500;1,400;1,500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(245, 231, 231);
+    margin-top: -1rem;
+    box-shadow: #dd0a0a 20px 20px 20px 20px;
+}
+
+.rows-1{
+    margin-top: 1rem;
+}
+
+.star{
+    text-align: center;
+    background-color:rgb(239 23 99);
+    border-radius: 20px;
+    padding: 5px 5px;
+    color: #fff;
+    font-size: 1rem;
+   
+}
+.PYMK{
+    width: 5%;
+}
+.courgette-regular {
+  
+  }
